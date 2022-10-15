@@ -1,0 +1,41 @@
+html, body {
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+.containers{
+    height: 80%;
+    width:80%;
+    background-color: lightblue;
+    background-position: center;
+    padding: 20px;
+    margin: auto;
+}
+input{
+    padding: 20px 10px;
+    width: 80px;
+    text-align: center;
+    font-size: 25px;
+}
+#clrbtn-el{
+    background-color: white;
+    color: blue;
+}
+h2{
+    margin-top: 80px;
+    
+    color: slateblue
+}
+
+p{
+    margin-bottom: 120px;
+}
+button{
+    margin-top: 14px;
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    
+}
